@@ -1,0 +1,51 @@
+body {
+   
+    background-image: url('https://mentorama.com.br/blog/wp-content/uploads/2022/06/capa-blog-coding-iniciante.jpg');
+    
+}
+
+
+ul {
+    margin-right: 150px;
+    font-size: 20px;
+
+ }
+
+
+.titulo {
+color: whitesmoke;
+margin-left: 2%;
+margin-top: 5%;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+.card-body {
+    background-image: radial-gradient(circle at 53.27% 50%, #971be7 0, #6817cf 50%, #3313b6 100%);
+    color: white;
+   border: 3px solid whitesmoke;
+   border-radius: 10px;
+  padding: 100px;
+  text-decoration: none;
+  
+}
+
+.card-body:hover {
+   
+    background-image: radial-gradient(circle at 53.27% 50%, #971be7 0, #6817cf 50%, #5e43ca 100%);
+}
+
+
+
+.materias {
+    color: rgb(238, 203, 137);
+    text-decoration: none;
+    font-family:monospace;
+}
+
+
+.tituloo {
+    color:white ;
+    
+}

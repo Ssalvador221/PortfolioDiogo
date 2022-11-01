@@ -1,0 +1,30 @@
+
+body {
+    background-image: url('https://img.freepik.com/fotos-premium/varios-equipamentos-de-informatica-com-codigo-de-programacao-em-telas-na-mesa-em-uma-sala-escura-conceito-de-seguranca-cibernetica-espaco-de-copia_236854-23136.jpg?w=2000');
+}
+
+
+
+
+.card-body {
+    background-image: linear-gradient(210deg, #472aa2 0, #201c85 50%, #000f69 100%);
+    color: white;
+   border: 3px solid whitesmoke;
+   border-radius: 10px;
+   width: 900px;
+   margin-left: 200px;
+   margin-top: 50px;
+  padding: 10px;
+  text-decoration: none;
+  
+}
+
+.materias {
+    color: aliceblue;
+    text-decoration: none;
+    font-family:monospace;
+}
+
+.card-body:hover {
+    background-image: linear-gradient(210deg, #472aa2 0, #342fc9 50%, #3444a0 100%);
+}

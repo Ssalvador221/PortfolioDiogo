@@ -1,0 +1,30 @@
+body {
+    background-image: url('https://idocode.com.br/wp-content/uploads/2021/08/Linguagens-de-programacao-quais-as-melhores-empresas-usam-.jpg');
+}
+
+
+.card-body {
+    background-image: radial-gradient(circle at 100% 0%, #7fa0ff 0, #006ad4 50%, #003baa 100%);
+    color: white;
+   border: 3px solid whitesmoke;
+   border-radius: 10px;
+   width: 900px;
+   margin-left: 200px;
+   margin-top: 50px;
+  padding: 10px;
+  text-decoration: none;
+  
+}
+
+.materias {
+    color: aliceblue;
+    text-decoration: none;
+    font-family:monospace;
+}
+
+
+
+.card-body:hover {
+    background-image: radial-gradient(circle at 50% 50%, #3500b9 0, #2f25e9 50%, #4555e6 100%);
+  
+}
